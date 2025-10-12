@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "files": [
+        "main.py",
+        "stocks.py",
+        "update_handler.py",
+        "requirements.txt"
+    ],
