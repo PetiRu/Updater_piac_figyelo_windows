@@ -1,5 +1,6 @@
 {
-    "version": "1.0.1",
-    "files": [
-        "main.py",
-    ],
+    "verzio": "1.0.1",
+    "fajlok": [
+        "main.py"
+    ]
+}
