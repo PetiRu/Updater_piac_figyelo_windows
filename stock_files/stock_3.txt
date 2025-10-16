@@ -1,0 +1,10 @@
+Világ Részvény Csomag
+
+Ez a csomag globális részvényeket tartalmaz:
+- Észak-Amerika (USA, Kanada)
+- Európa (Németország, Franciaország, Hollandia)
+- Ázsia (Dél-Korea, Hong Kong, Japán, Tajvan, India)
+- Latin-Amerika (Brazília)
+- Ausztrália
+
+Összesen: 750 globális részvény a világ különböző tőzsdéiről
