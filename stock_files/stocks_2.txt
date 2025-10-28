@@ -1,8 +1,0 @@
-Amerikai Részvény Csomag
-
-Ez a csomag amerikai részvényeket tartalmaz:
-- NASDAQ technológiai részvények
-- S&P 500 nagyvállalatok
-- Dow Jones ipari átlag részvényei
-
-Összesen: 500 fő amerikai részvény
