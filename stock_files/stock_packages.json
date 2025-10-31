@@ -1,13 +1,4 @@
 {
-  "_comment": "Ez a JSON fájl különböző részvénypiacok és indexek részvényeit tartalmazza, kategóriák szerint rendezve.",
-  "_structure": {
-    "_comment": "A fájl négy fő kulcsot tartalmaz: EU_KÉK_CSP, EU, US, WORLD.",
-    "EU_KÉK_CSP": "Fő európai kék csipp vállalatok (pl. DAX indexből).",
-    "EU": "Széles európai részvénylista, több országból és tőzsdéről.",
-    "US": "Amerikai (USA) részvények teljes listája, NYSE és NASDAQ piacokról.",
-    "WORLD": "Globális részvénylista, amely minden főbb régió (Európa, Amerika, Ázsia, Ausztrália stb.) nagyvállalatait tartalmazza."
-  },
-  {
   "EU_KÉK_CSP": {
     "név": "Európai Kék Csipp Részvények",
     "leírás": "Fő európai kék csipp vállalatok a DAX és egyéb indexekből",
