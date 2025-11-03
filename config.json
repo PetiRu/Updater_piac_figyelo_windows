@@ -1,6 +1,6 @@
 {
     "verzio": "3.5.0",
     "fajlok": [
-        "main.py"
+        "stock_packages.json"
     ]
 }
