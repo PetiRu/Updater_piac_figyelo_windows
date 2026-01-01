@@ -1,6 +1,14 @@
 {
-    "verzio": "3.5.0",
+    "verzio": "4.0.0",
     "fajlok": [
-        "stock_packages.json"
-    ]
+        "stock_packages.json",
+        "company_names.json",
+        "config.json"
+    ],
+    "leiras": "Részvény csomagok frissítése új német részvényekkel",
+    "változások": [
+        "Új DAX40 Xetra, EU, ATX részvények hozzáadva",
+        "Frissített cégnevek",
+    ],
+    "kiadás_dátuma": "2026-01-01",
 }
