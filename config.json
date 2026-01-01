@@ -1,13 +1,26 @@
 {
-    "verzio": "4.0.0",
-    "fajlok": [
-        "stock_packages.json",
-        "company_names.json",
-    ],
-    "leiras": "Részvény csomagok frissítése új német részvényekkel",
-    "változások": [
-        "Új DAX40 Xetra, EU, ATX részvények hozzáadva",
-        "Frissített cégnevek",
-    ],
-    "kiadás_dátuma": "2026-01-01",
+  "verzió": "4.0.0",
+  "fájlok": [
+    "stock_packages.json",
+    "company_names.json",
+    "config.json"
+  ],
+  "leírás": "Részvény csomagok frissítése új német részvényekkel",
+  "változások": [
+    "Új DAX40 részvények hozzáadva",
+    "Új XETRA részvények hozzáadva",
+    "EU részvénycsomag bővítve",
+    "ATX részvények frissítve",
+    "Cégnevek adatbázis kiegészítve"
+  ],
+  "kiadás_dátuma": "2026-01-01",
+  "mérete_kb": 256,
+  "aláírás": "",
+  "fontosság": "normál",
+  "minimum_verzió": "3.5.0",
+  "kompatibilitás": ["windows", "linux", "darwin"],
+  "telepítési_útmutatás": "Az alkalmazás automatikusan telepíti a frissítést. Ellenőrizd a beállításokat telepítés után.",
+  "visszaállítási_lehetőség": true,
+  "frissítési_típus": "részleges",
+  "checksum": ""
 }
