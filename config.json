@@ -3,7 +3,6 @@
     "fajlok": [
         "stock_packages.json",
         "company_names.json",
-        "config.json"
     ],
     "leiras": "Részvény csomagok frissítése új német részvényekkel",
     "változások": [
