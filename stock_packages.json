@@ -1,4 +1,34 @@
 {
+  "EURÓPAI_KÉK_CSP": {
+    "név": "Európai Kék Csipp Részvények",
+    "leírás": "Fő európai kék csipp vállalatok a DAX és egyéb európai indexekből",
+    "részvények": [
+      "ADS.DE", "AIR.PA", "ALV.DE", "BAS.DE", "BAYN.DE", "BMW.DE",
+      "BNP.PA", "BN.PA", "CAR.PA", "CON.DE", "DB1.DE", "DBK.DE",
+      "DPW.DE", "DTE.DE", "ENEL.MI", "ENGI.PA", "ENI.MI", "EOAN.DE",
+      "FRE.DE", "GLE.PA", "HEI.DE", "HEN3.DE", "IBE.MC", "IFX.DE",
+      "ISP.MI", "LR.PA", "MC.PA", "MBG.DE", "MRK.DE", "MUV2.DE",
+      "NOKIA.HE", "OR.PA", "ORA.PA", "PUM.DE", "REP.MC", "RWE.DE",
+      "SAN.PA", "SAP.DE", "SGO.PA", "SIE.DE", "SU.PA", "TEF.MC",
+      "TTE.PA", "UCG.MI", "UNA.AS", "VOW3.DE", "VNA.DE", "DG.PA",
+      "VIV.PA", "AC.PA", "ADKO.VI", "AF.PA", "AKZA.AS", "AMAG.VI",
+      "ANDR.VI", "AKE.PA", "ATS.VI", "BAMI.MI", "BG.VI", "CAI.VI",
+      "AM.PA", "DOC.VI", "EDEN.PA", "ELE.MC", "EBS.VI", "EVN.VI",
+      "FACC.VI", "FLU.VI", "GMAB", "GRF.MC", "HEIO.AS", "KBC.BR",
+      "LNZ.VI", "LDO.MI", "MMK.VI", "MONC.MI", "NOVO-B.CO", "POST.VI",
+      "OMV.VI", "PMAG.VI", "POL.VI", "RBI.VI", "RHIM.VI", "ROS.VI",
+      "SANT.VI", "SBO.VI", "SEM.VI", "SRG.MI", "STLA.MI", "STR.VI",
+      "SWUT.VI", "SYAB.VI", "TKA.VI", "UQA.VI", "FR.PA", "VLA.PA",
+      "VER.VI", "VIG.VI", "VOE.VI", "URW.AS", "WIE.VI", "ZAG.VI",
+      "UNI.MI"
+    ],
+    "kategória": "Kék Csipp",
+    "régió": "Európa",
+    "valuta": "EUR",
+    "tőzsde": "Különböző európai tőzsdek (XETRA, Euronext, Borsa Italiana, Bolsa de Madrid, Wiener Börse)",
+    "volatilitás": "Közepes",
+    "szektor": "Diverzifikált"
+  },
   "EU_KÉK_CSP": {
     "név": "Európai Kék Csipp Részvények",
     "leírás": "Fő európai kék csipp vállalatok a DAX és egyéb indexekből",
